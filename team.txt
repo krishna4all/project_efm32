@@ -1,4 +1,6 @@
 ********************
 Developer: Krishna Ambati
 Project : Explore EFM32GG
+Task1:	Projects to test blink led
+
 ********************
